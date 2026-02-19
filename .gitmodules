@@ -1,0 +1,7 @@
+[submodule "Multiverse"]
+	path = Multiverse
+	url = git@github.com:Multiverse-Framework/Multiverse.git
+	branch = dev
+[submodule "cognitive_robot_abstract_machine"]
+	path = cognitive_robot_abstract_machine
+	url = git@github.com:HoangGiang93/cognitive_robot_abstract_machine.git
